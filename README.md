@@ -1,4 +1,2 @@
 # VFD-Clock
-Hardware design and software files for a vacuum fluorescent display clock
-
-Code will soon be commented.
+hardware design and software files for a vacuum fluorescent display clock
